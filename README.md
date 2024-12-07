@@ -65,7 +65,7 @@
 
 ### 📫 Find Me Online
 - **GitHub:** [JJKenn3dy](https://github.com/JJKenn3dy)  
-- **YouTube:** [JJKennedy's Channel](https://www.youtube.com/channel/your-channel-link)  
+- **YouTube:** [JJKennedy's Channel](https://www.youtube.com/@JJKennedy)  
 
 ---
 
