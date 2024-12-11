@@ -31,8 +31,6 @@
   - Admin permissions for specific commands.
 - **Technologies:**  
   `discord.py`, `SQLite`, `Python`.  
-- **Repository:** coming soon...
-
 ---
 
 ### 2️⃣ Voice Assistant (In Development)
