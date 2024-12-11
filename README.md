@@ -9,6 +9,7 @@
 ---
 
 ### 🛠️ Skills & Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJKenn3dy&layout=compact&langs_count=10)
 - **Programming Languages:**  
   `C++`, `Python`, `SQL`, basic `HTML/CSS`.
 - **Databases:**  
