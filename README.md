@@ -20,7 +20,7 @@
 
 ## 🌟 Featured Projects
 
-### 1️⃣ Discord Bot
+### 1️⃣ [Discord Bot](https://github.com/JJKenn3dy/discord-bot)
 - **Description:** A multifunctional Discord bot designed for server management and user interaction.
 - **Core Features:**
   - Custom database integration using `SQLite`.
