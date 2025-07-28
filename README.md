@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm JJKennedy
 
 ### 💻 About Me
-- 🎓 **3rd-year Bachelor's student in Information Security** at HSE University (MIEM).
+- 🎓 **4rd-year Bachelor's student in Information Security** at HSE University (MIEM).
 - 💡 Passionate about **software development** and constantly looking to improve.
 - 🛠️ Started coding at 15 and have been honing my skills ever since.
 - 🎥 On the side, I run a **YouTube channel** with **13,400+ subscribers**, where I share analytical and creative content about the gaming industry.
